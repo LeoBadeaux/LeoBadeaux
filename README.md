@@ -1,5 +1,12 @@
-# Leo Badeaux
-## Full-stack website developer
+<h1 align="center">
+	<a href="https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/wiki/How-to-install-hacks">
+		<img align="center"
+			width="128"
+			alt="Leo Badeaux"
+			src="https://avatars.githubusercontent.com/u/79180322?s=460&u=5b68a1af1d81179d7dcf907bbb62c368d85d5699&v=4">
+  </a>
+ Leo Badeaux - Fullstack Web Dev
+</h1>
 
 ### Current Jobs:
  - CEO and primary developer at Tetretalk, https://tetretalk.com
