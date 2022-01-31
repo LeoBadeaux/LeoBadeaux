@@ -3,7 +3,7 @@
 ```typescript
 class LeoBadeaux {
 	name: "Léo Badeaux",
-	age: "18"
+	age: 19,
 	location: "Toronto, Ontario 🇨🇦",
 	raised: "Quebec City, Quebec 🇨🇦",
 	born: "Rotterdam, South Holland 🇳🇱",
@@ -21,11 +21,10 @@ class LeoBadeaux {
 	frameworks: [
 		"node.js",
 		"express.js",
-		"mongodb",
+		"MongoDB",
 		"Redis",
 		"axios"
 	],
-	"favorite_drink": "Dr. Pepper",
-	"favorite_alcholie": "Vodka"
+	"favorite_drink": "Dr. Pepper"
 }
 ```
